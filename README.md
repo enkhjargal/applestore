@@ -1,5 +1,3 @@
-<p align="center"><img src="//gitlab.com/uploads/-/system/project/avatar/30900847/apple_transparent.png?width=64"></p>
-
 # Reserve and Pickup notifier for the Apple Store.
 
 I just made this project to reserve the new iPhone 13 Pro Max with Sierra Blue color after spending almost two days checking eligibility by refreshing the webpage.
