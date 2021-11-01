@@ -1,0 +1,22 @@
+{
+  "name": "applestore",
+  "version": "1.0.0",
+  "description": "A hobby project to reserve iPhone 13 Pro Max Sierra Blue.",
+  "main": "src/main.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "node-cron": "^3.0.0",
+    "node-notifier": "^10.0.0"
+  },
+  "scripts": {
+    "start": "node src/bot.js"
+  },
+  "keywords": [
+    "iphone",
+    "apple",
+    "store",
+    "automation",
+    "order"
+  ],
+  "author": "Enkhjargal Lkhagvaa <bayad.jagaa@gmail.com>"
+}
